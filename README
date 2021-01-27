@@ -13,7 +13,7 @@ the next level.
 
 Running Instructions:
 All the code should be run through the UntitledStealthGame.py file, which calls
-everything else. The directory of TitleScreen.py must also contain
+everything else. The directory of UntitledStealthGame.py must also contain
 engine.py, all the level python files, and the Assets folder. 
 
 Notes and Assumptions:
